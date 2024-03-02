@@ -1,10 +1,6 @@
-# makanakil3
-Good day world
-{
-  "name": "Makanalabs",
-  "logo": "https://i.ibb.co/L8406Wk/Makanalabs.png",
-  "rpc_url": "http://37.60.229.141:9944",
-  "explorer_url": "http://37.60.229.141:4000",
-  "metrics_endpoint": "http://37.60.229.141:9615/metrics",
-  "id": "b45395d5-9049-4589-8570-11025dfd4d21"
-}
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x3954b67d562901a3EFB67f75Cc1A8FA2a192dc9F'
+quorum: 1
